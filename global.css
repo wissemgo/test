@@ -1,0 +1,14 @@
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+
+  /* font sizes */
+  --font-size-sm: 15px;
+  --font-size-base: 16px;
+  --font-size-lg: 32px;
+  --font-size-xl: 45px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+}
